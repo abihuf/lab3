@@ -70,7 +70,7 @@ class TaskList {
                 return i + 1;
             }
         }
-        return -1; // Если задача не найдена
+        return -1;
     }
 
     public void removeTaskByNumber(int taskNumber) {
